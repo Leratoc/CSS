@@ -1,2 +1,2 @@
-# CSS
+# cssgridspractice
 Created with CodeSandbox
